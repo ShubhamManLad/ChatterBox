@@ -47,32 +47,32 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCHZNb9xI59S0jBMm3xRot1HcFAjX82XQw',
-    appId: '1:858851012397:web:d066c2cc54c29da0976da4',
-    messagingSenderId: '858851012397',
-    projectId: 'chatapp-ec119',
-    authDomain: 'chatapp-ec119.firebaseapp.com',
-    databaseURL: 'https://chatapp-ec119-default-rtdb.firebaseio.com',
-    storageBucket: 'chatapp-ec119.appspot.com',
-    measurementId: 'G-ZPVKPJJK9Z',
+    apiKey: 'AIzaSyCHZNb9xI59S0**************',
+    appId: '1:858851012397:web:d066c2cc**************',
+    messagingSenderId: '8588**************',
+    projectId: 'chatapp-e**************',
+    authDomain: 'chatapp-e**************.firebaseapp.com',
+    databaseURL: 'https://chatapp-e**************-default-rtdb.firebaseio.com',
+    storageBucket: 'chatapp-e**************.appspot.com',
+    measurementId: 'G-ZPV**********',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA_RDOSGL36nH5hfa76WuimzUqCeRi04n0',
-    appId: '1:858851012397:android:362db9f2a8b92bef976da4',
-    messagingSenderId: '858851012397',
-    projectId: 'chatapp-ec119',
-    databaseURL: 'https://chatapp-ec119-default-rtdb.firebaseio.com',
-    storageBucket: 'chatapp-ec119.appspot.com',
+    apiKey: 'AIzaSyA_RDOSGL36nH5hf**********',
+    appId: '1:858851012397:android:362db9f2**********4',
+    messagingSenderId: '858**********',
+    projectId: 'chatapp-e**********',
+    databaseURL: 'https://chatapp-e**********-default-rtdb.firebaseio.com',
+    storageBucket: 'chatapp-e**********.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDtPiGc1emgKN7hDmP6uVVTBThPFR41Sso',
-    appId: '1:858851012397:ios:f089288ea9215946976da4',
-    messagingSenderId: '858851012397',
-    projectId: 'chatapp-ec119',
-    databaseURL: 'https://chatapp-ec119-default-rtdb.firebaseio.com',
-    storageBucket: 'chatapp-ec119.appspot.com',
+    apiKey: 'AIzaSyDtPiGc1emgKN**********',
+    appId: '1:858851012397:ios:f08928**********4',
+    messagingSenderId: '8588**********',
+    projectId: 'chatapp-e**********',
+    databaseURL: 'https://chatapp-e**********-default-rtdb.firebaseio.com',
+    storageBucket: 'chatapp-e**********.appspot.com',
     iosBundleId: 'com.example.chatterbox',
   );
 }
